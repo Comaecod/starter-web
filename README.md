@@ -12,4 +12,8 @@ How to work with Git and basic commands.
 
 ## Deployment
 
+Deploying to make it public for use.
+
 ## How to Contribute
+
+Paypal
