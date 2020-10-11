@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Vishnu Vardhan vishnuthecoder@gmail.com @comaecod
 
 # THANKS
 
