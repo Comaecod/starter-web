@@ -16,7 +16,7 @@ Deploying to make it public for use.
 
 ## How to Contribute
 
-Paypal
+Paypal, GPay
 
 ### Copyright
 
