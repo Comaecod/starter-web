@@ -1,2 +1,4 @@
 temp.txt
+*.orig
+multiInst
 log/
