@@ -1,6 +1,6 @@
 # Starter Web Repo
 
-Demo for working with Git 
+Demo for working with Git. Yes it is updated project 
 
 ## Purpose
 
