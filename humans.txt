@@ -11,7 +11,7 @@
 
 # TECHNOLOGY COLOPHON
 
-    HTML5, CSS3
+    HTML5, CSS3, JS
     jQuery, Modernizr
 
 like this course dude come on
