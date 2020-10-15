@@ -20,4 +20,4 @@ Paypal, GPay
 
 ### Copyright
 
-2018 comaecod.edition
+2019 comaecod.edition
